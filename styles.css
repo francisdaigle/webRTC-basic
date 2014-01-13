@@ -1,0 +1,13 @@
+/* 
+    Document   : styles
+    Created on : Jan 12, 2014, 12:01:05 AM
+    Author     : francis
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+video {
+    background: #222;
+    height: 500px;
+    width: 500px;
+}
